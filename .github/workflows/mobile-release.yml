@@ -6,8 +6,8 @@ permissions:
   discussions: write
 
 env:
-  PROJECT_NAME: PsychEngine
-  REPO_PATH: MobilePorting/FNF-PsychEngine-Mobile
+  PROJECT_NAME: ApexForgeEngine
+  REPO_PATH: Brenninho123/ApexForge-Engine
 
 jobs:
   get-commit-hash:
